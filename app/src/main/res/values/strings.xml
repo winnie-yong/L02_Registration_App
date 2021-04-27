@@ -2,8 +2,8 @@
     <string name="app_name">DEMO MY LOGIN APP</string>
     <string name="name">Name:</string>
     <string name="password">Password</string>
-    <string name="login">Demo my login app</string>
-    <string name="cancel">cancel</string>
+    <string name="login">LOGIN</string>
+    <string name="cancel">CANCEL</string>
     <string name="registration_form">Registration Form</string>
     <string name="text2">Welcome To Adventure Learning Club</string>
     <string name="text3">Full Name</string>
@@ -13,5 +13,9 @@
     <string name="radio1">Male</string>
     <string name="radio2">Female</string>
     <string name="text7">StudentID</string>
+    <string name="text8">School</string>
+    <string name="text9">Email</string>
+    <string name="text10">Phone</string>
+    <string name="button">REGISTER</string>
 </resources>
 
